@@ -1,2 +1,2 @@
-# conflict-demo1
+# REMOTE
 This is a demo repository to learn about Git conflicts.
